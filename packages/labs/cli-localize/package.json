@@ -62,7 +62,7 @@
     }
   },
   "dependencies": {
-    "@lit/localize-tools": "^0.6.3"
+    "@lit/localize-tools": "^0.6.5"
   },
   "devDependencies": {
     "typescript": "~4.6.2"
